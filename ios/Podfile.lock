@@ -1,0 +1,65 @@
+PODS:
+  - Flutter (1.0.0)
+  - image_gallery (0.0.1):
+    - Flutter
+  - media_gallery (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - path_provider_linux (0.0.1):
+    - Flutter
+  - path_provider_macos (0.0.1):
+    - Flutter
+  - "permission_handler (5.0.1+1)":
+    - Flutter
+  - TensorFlowLite (1.13.1)
+  - tflite (1.0.6):
+    - Flutter
+    - TensorFlowLite
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - image_gallery (from `.symlinks/plugins/image_gallery/ios`)
+  - media_gallery (from `.symlinks/plugins/media_gallery/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - path_provider_linux (from `.symlinks/plugins/path_provider_linux/ios`)
+  - path_provider_macos (from `.symlinks/plugins/path_provider_macos/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - tflite (from `.symlinks/plugins/tflite/ios`)
+
+SPEC REPOS:
+  trunk:
+    - TensorFlowLite
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  image_gallery:
+    :path: ".symlinks/plugins/image_gallery/ios"
+  media_gallery:
+    :path: ".symlinks/plugins/media_gallery/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  path_provider_linux:
+    :path: ".symlinks/plugins/path_provider_linux/ios"
+  path_provider_macos:
+    :path: ".symlinks/plugins/path_provider_macos/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  tflite:
+    :path: ".symlinks/plugins/tflite/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  image_gallery: c8c7257d678bdf2c83ea176feb1e04fb6740dadc
+  media_gallery: 834a04455a476b975c280aa1f24ed2853dfe36de
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  path_provider_linux: 4d630dc393e1f20364f3e3b4a2ff41d9674a84e4
+  path_provider_macos: f760a3c5b04357c380e2fddb6f9db6f3015897e0
+  permission_handler: eac8e15b4a1a3fba55b761d19f3f4e6b005d15b6
+  TensorFlowLite: 8b9dc4eb32eac0f8cb660c66bca7604da56dcc5a
+  tflite: 487522100c94a00c227074f4f1cd5372c75ba961
+
+PODFILE CHECKSUM: 769d2695d1c4dffa5bb1e2a9aa673bff07725db3
+
+COCOAPODS: 1.9.1
